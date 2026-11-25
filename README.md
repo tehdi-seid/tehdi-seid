@@ -26,7 +26,7 @@ To become a skilled software engineer, build meaningful products, and continuous
 
 ### 🤝 Let's Connect
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](https://github.com/tehdi-seid)
 
 ---
 
