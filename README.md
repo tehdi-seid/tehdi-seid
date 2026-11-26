@@ -1,11 +1,8 @@
-# Hi there, I'm Mehdi! 👋
-
-### 💻 Software Engineering Student | Frontend Developer
-
+Hi there, I'm Tehdi! 👋
+💻 Software Engineering Student | Frontend Developer
 I'm a software engineering student passionate about building modern web applications and exploring the world of software development.
 
 I enjoy learning new technologies, solving problems, and turning ideas into real-world projects. I'm continuously improving my skills and growing as a developer.
-
 ### 🚀 Languages
 
 <p>
