@@ -1,4 +1,4 @@
-# Hi there, I'm Tehdi! 👋
+# Hi there, I'm Mehdi! 👋
 
 ### 💻 Software Engineering Student | Frontend Developer
 
@@ -6,14 +6,29 @@ I'm a software engineering student passionate about building modern web applicat
 
 I enjoy learning new technologies, solving problems, and turning ideas into real-world projects. I'm continuously improving my skills and growing as a developer.
 
-### 🚀 Technologies & Tools
+### 🚀 Languages
 
-- **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, HTML, CSS, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, Vite
-- **Currently Exploring:** Node.js, Backend Development, and System Design
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,pnpm" />
+</p>
 
 ### 🌱 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
+</p>
 
 - Building scalable and maintainable applications.
 - Understanding software architecture and system design.
@@ -26,7 +41,7 @@ To become a skilled software engineer, build meaningful products, and continuous
 
 ### 🤝 Let's Connect
 
-- GitHub: [Tehdi Seid](https://github.com/tehdi-seid)
+- GitHub: [@your-username](https://github.com/your-username)
 
 ---
 
