@@ -1,4 +1,4 @@
-Hi there, I'm Tehdi! 👋
+# Hi there, I'm Tehdi! 👋
 💻 Software Engineering Student | Frontend Developer
 I'm a software engineering student passionate about building modern web applications and exploring the world of software development.
 
